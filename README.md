@@ -9,13 +9,13 @@
 
 [![Lang-EN](https://img.shields.io/badge/lang-EN-blue.svg)](README.md) [![Lang-DE](https://img.shields.io/badge/lang-DE-lightgrey.svg)](README.de.md)
 
-> Contributions in German or English are welcome. Language synchronization is handled by the maintainer no later than post-merge.
+> Contributions in German or English or Spanish are welcome. Language synchronization is handled by the maintainer no later than post-merge.
 
 ## Overview
 
 This repository provides a compact, battle-tested baseline for consistent Delphi code. It focuses on:
 
-- A clear, modern Delphi Style Guide (German and English)
+- A clear, modern Delphi Style Guide (German, English and Spanish)
 - A curated .gitignore tailored for Delphi
 - A Git Attributes template for EOL normalization and binary protection
 
@@ -43,7 +43,7 @@ Beyond team settings, a consistent Style Guide also benefits solo developers ove
 - Universal Build Script: [DelphiBuildDPROJ.ps1](DelphiBuildDPROJ.ps1) - PowerShell script for building Delphi projects via command line
 - Release Tools: [release-tools/](release-tools/) - Automated release creation
 
-Note: The style guide is maintained in German and English. Please keep both documents in sync (maintainer will handle synchronization post-merge if needed).
+Note: The style guide is maintained in German, English and Spanish. Please keep both documents in sync (maintainer will handle synchronization post-merge if needed).
 
 ## Quick Start
 
@@ -104,7 +104,7 @@ For more details, see the script documentation in [DelphiBuildDPROJ.ps1](DelphiB
 ## Releases
 
 Official releases are available in the [release-assets/](release-assets/) directory. Each release includes:
-- PDF versions of the style guides (German and English)
+- PDF versions of the style guides (German, English and Spanish)
 - Git templates (.gitignore and .gitattributes)
 - Documentation
 
