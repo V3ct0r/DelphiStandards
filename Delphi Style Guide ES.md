@@ -1,11 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# Traducir al español
-
-El archivo completo ya está en inglés; a continuación está su traducción al español en formato Markdown.
-
-***
-
 # Guía de Estilo Delphi (ES)
 
 > Versión: 2.1
